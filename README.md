@@ -2,15 +2,15 @@
 
 ---
    
-💻 Té𝚌𝚗𝚒𝚌𝚘 𝚎𝚗 𝚒𝚗𝚏𝚘𝚛𝚖á𝚝𝚒𝚌𝚊 𝚢 𝚎𝚕𝚎𝚌𝚝𝚛ó𝚗𝚒𝚌𝚊, Técnico IT (𝚎specializado en 𝚊𝚗á𝚕𝚒𝚜𝚒𝚜 de 𝚜𝚒𝚜𝚝𝚎𝚖𝚊𝚜), y aunque n𝚘 𝚖𝚎 𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛𝚘 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚊𝚍𝚘𝚛/𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚍𝚘𝚛 ~~𝚜𝚒𝚎𝚗𝚍𝚘 𝚚𝚞𝚎 𝚎𝚜𝚝𝚞𝚍𝚒é 𝚢 𝚎𝚓𝚎𝚛𝚌í~~ he logrado 𝚌𝚘𝚗𝚌𝚛𝚎𝚝𝚊𝚛 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘𝚜 𝚚𝚞𝚎 siguieron 𝚙𝚊𝚟𝚒𝚖𝚎𝚗𝚝𝚊ndo 𝚎𝚜𝚝𝚎 𝚌𝚊𝚖𝚒𝚗𝚘 𝚝𝚎𝚌𝚗𝚘𝚕ó𝚐𝚒𝚌𝚘 ~~(𝚊 𝚙𝚎𝚜𝚊𝚛 𝚍𝚎 𝚑𝚊𝚋𝚎𝚛 𝚛𝚎𝚗𝚎𝚐𝚊𝚍𝚘 𝚖𝚞𝚌𝚑𝚘)~~  
+💻 Técnico IT (𝚎specializado en 𝚊𝚗á𝚕𝚒𝚜𝚒𝚜 de 𝚜𝚒𝚜𝚝𝚎𝚖𝚊𝚜)
 
 <p align="center">
 <img src="https://i.imgur.com/NZ5mVDB.png" width="70" title="I 💛​ M🐍">
 </p>  
 
-#
+<!-- #
 ### Mi page(folio) ​
-<a href="https://AgustinCMP.github.io" title="Bruno dice que hagas click">Lena(no)</a>🔗
+<a href="https://AgustinCMP.github.io" title="Bruno dice que hagas click">Lena(no)</a>🔗 -->
 
 <!-- jeje aguante' los Monty!
 <p align="center">
