@@ -9,8 +9,8 @@
 </p>  
 
 #
-### Mi page(folio) 🔗​
-<a href="https://AgustinCMP.github.io" title="Bruno dice que hagas click">Lena(no)</a>
+### Mi page(folio) ​
+<a href="https://AgustinCMP.github.io" title="Bruno dice que hagas click">Lena(no)</a>🔗
 
 <!-- jeje aguante' los Monty!
 <p align="center">
